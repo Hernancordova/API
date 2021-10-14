@@ -2,7 +2,7 @@
   "posts": [
 {
   "usuario": "string",
-  "contrasenia": "string",
+  "clave": "string",
 }
   ],
   "profile": {
