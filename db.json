@@ -1,9 +1,9 @@
 {
   "posts": [
-{
-  "usuario": "string",
-  "clave": "string",
-}
+    {
+      "id": 1,
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
