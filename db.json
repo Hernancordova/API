@@ -1,0 +1,11 @@
+{
+  "posts": [
+{
+  "usuario": "string",
+  "contrasenia": "string",
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
